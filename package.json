@@ -1,0 +1,14 @@
+{
+  "name": "how-to-test-2fa-mfa",
+  "version": "0.1.0",
+  "description": "TOTP helper module for MFA login testing: reads a Base32 secret from an env variable and generates the current 6-digit authenticator-app code at runtime using otpauth.",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/totp-helper.js",
+  "exports": {
+    ".": "./src/totp-helper.js"
+  },
+  "dependencies": {
+    "otpauth": "^9.3.6"
+  }
+}

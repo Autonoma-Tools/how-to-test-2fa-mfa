@@ -1,9 +1,9 @@
 {
   "version": 1,
   "slug": "how-to-test-2fa-mfa",
-  "step": "created",
-  "completed_specs": [],
-  "pending_specs": ["snippet-1"],
-  "created_at": "2026-06-24T13:08:26Z",
-  "updated_at": "2026-06-24T13:08:26Z"
+  "step": "deps_written",
+  "completed_specs": ["snippet-1"],
+  "pending_specs": [],
+  "created_at": "2026-06-24T13:10:22Z",
+  "updated_at": "2026-06-24T13:10:22Z"
 }
